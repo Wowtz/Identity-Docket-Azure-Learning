@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KFc+J4YR0PUcxUea01woTsBvSNcIqUmde7tpV9vNCdRRTvbKV1QDsCxV2JB33fJcJN6Fg62azikMRhLLcaagsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\PokeStore\\PokeStore\\PS.WebApp.MVC\\PS.WebApp.MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\walter.camargo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}

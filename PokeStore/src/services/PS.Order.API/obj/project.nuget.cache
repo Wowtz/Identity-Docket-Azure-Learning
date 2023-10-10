@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Unpk9tZX8PuXO9p2S99PBG3X2+l6j3XD26x6+2Dt1Ba4ES7wqA5P41W1RFG0hxH0CadFznWvKSi20oZQvnm8xg==",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\PokeStore\\PokeStore\\src\\services\\PS.Order.API\\PS.Order.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\walter.camargo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\walter.camargo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\walter.camargo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512",
+    "C:\\Users\\walter.camargo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\walter.camargo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\walter.camargo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\walter.camargo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
